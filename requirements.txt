@@ -1,0 +1,21 @@
+# Core dependencies for Vision by Computer Lab 4
+# Homography Calculation and Image Stitching
+
+# Image processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+
+# Linear algebra
+scipy>=1.10.0
+
+# Data handling (optional, for future expansions)
+scikit-image>=0.20.0
+Pillow>=10.0.0
